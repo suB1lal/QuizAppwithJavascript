@@ -1,2 +1,6 @@
 # QuizAppwithJavascript
- Css,Javascript kullanarak yapmış olduğum basit quiz uygulaması
+
+
+![resim](image/true.png)
+![resim](image/false.png)
+![resim](image/score.png)
